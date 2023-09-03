@@ -5,6 +5,6 @@
 ## Tech Stack 💻
 |Layer|Android|iOS|
 |:---|:---:|:---:|
-|Front-end|`Jetpack Compose`|`Swift UI`|
-|Application Detail|`Jetpack Libraries`, `MVVM`, `Dependency Injection`, `Kotlin Coroutines`| `Apple Framework`, `MVVM`, `Combine Framework`|
+|Front-end|`Jetpack Compose`|`Swift UI`, `UIKit`|
+|Application Detail|`Jetpack Libraries`, `MVVM`, `Dependency Injection`, `Kotlin Coroutines`| `Swift`, `SwiftUI`, `UIKit`, `WebKit`, `MapKit`, `MVVM`, `Combine Framework`|
 |Back-end|`Firebase-Auth`, `Firebase-Firestore`, `Firebase-Database`, `Firebase-Storage`|`Firebase-Auth`, `Firebase-Firestore`, `Firebase-Database`, `Firebase-Storage`|
